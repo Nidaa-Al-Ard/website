@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>نداء الأرض | منظمة إعادة التدوير غير الربحية</title>
+    
+    <!-- Meta Tags for SEO & Social Sharing -->
+    <meta name="description" content="مبادرة غير ربحية ملتزمة بحماية كوكبنا من خلال تعزيز إعادة التدوير والتوعية البيئية في مجتمعاتنا.">
+    <meta name="keywords" content="إعادة التدوير, بيئة, استدامة, منظمة غير ربحية, تطوع, نداء الأرض">
+    <meta name="author" content="نداء الأرض">
+    
+    <!-- Open Graph Tags for Social Media -->
+    <meta property="og:title" content="نداء الأرض | منظمة إعادة التدوير غير الربحية">
+    <meta property="og:description" content="مبادرة غير ربحية ملتزمة بحماية كوكبنا من خلال تعزيز إعادة التدوير والتوعية البيئية في مجتمعاتنا.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://earthcall.org">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Montserrat:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600&display=swap" rel="stylesheet">
+    
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Main Stylesheet -->
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="assets/logo.jpg">
+    
+    <!-- Preload Critical Resources -->
+    <link rel="preload" href="scripts/language-manager.js" as="script">
+    <link rel="preload" href="scripts/app.js" as="script">
+</head>
+<body>
+    <!-- Loading Indicator (shown until app initializes) -->
+    <div id="loading-indicator" class="loading-overlay">
+        <div class="loading-spinner">
+            <i class="fas fa-recycle fa-spin"></i>
+            <p>جاري تحميل نداء الأرض...</p>
+        </div>
+    </div>
+
+    <!-- Header will be injected here by app.js -->
+    <header id="main-header" class="main-header" aria-label="رئيسية الموقع">
+        <!-- Dynamic content will be loaded here -->
+    </header>
+
+    <!-- Main page content will be injected here -->
+    <main id="page-content" class="main-content" aria-label="محتوى الصفحة">
+        <!-- Dynamic content will be loaded here -->
+    </main>
+
+    <!-- Footer will be injected here by app.js -->
+    <footer id="main-footer" class="main-footer" aria-label="تذييل الموقع">
+        <!-- Dynamic content will be loaded here -->
+    </footer>
+
+    <!-- JavaScript Modules -->
+    <!-- Use type="module" for ES6 module support -->
+    <script src="scripts/language-manager.js" type="module"></script>
+    <script src="scripts/app.js" type="module"></script>
+
+    <!-- Inline Script for Loading State -->
+    <script>
+        // Hide loading indicator when page is fully loaded
+        document.addEventListener('DOMContentLoaded', function() {
+            // This will be overridden when the app fully initializes
+            setTimeout(function() {
+                const loadingIndicator = document.getElementById('loading-indicator');
+                if (loadingIndicator) {
+                    loadingIndicator.style.opacity = '0';
+                    setTimeout(function() {
+                        loadingIndicator.style.display = 'none';
+                    }, 300);
+                }
+            }, 1000); // Fallback timeout
+        });
+    </script>
+</body>
+</html>

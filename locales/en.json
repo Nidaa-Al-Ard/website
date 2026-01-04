@@ -1,0 +1,101 @@
+{
+	"nav_home": "Home",
+	"nav_about": "About",
+	
+  "hero_title": "Earth's Call: Towards a Cleaner World Through Recycling",
+  "hero_text": "A nonprofit initiative committed to protecting our planet by promoting recycling and environmental awareness in our communities.",
+  "hero_button": "Join Our Call",
+  
+  "mission_highlight_title": "Our Mission: Protecting Earth for Future Generations",
+  "mission_highlight_text": "We work to empower communities through education and resources to reduce waste and promote effective recycling.",
+  
+  "features_title": "How We Drive Change",
+  
+  "card1_title": "Our Mission",
+  "card1_text": "We work to reduce waste in landfills through community recycling programs and environmental education.",
+  
+  "card2_title": "Volunteering",
+  "card2_text": "Join our team of volunteers and help organize clean-up events and recycling workshops.",
+  "card2_link": "Volunteer Today",
+  
+  "card3_title": "Our Impact",
+  "card3_text": "We have helped divert over 500 tons of waste from landfills and provided environmental education.",
+  "stat1_label": "tons of waste diverted",
+  "stat2_label": "people educated",
+  
+  "process_title": "Our Recycling Process",
+  "step1_title": "Collection",
+  "step1_text": "We collect recyclable materials from homes and businesses.",
+  "step2_title": "Sorting",
+  "step2_text": "We meticulously sort materials to ensure quality recycling.",
+  "step3_title": "Processing",
+  "step3_text": "We process materials to prepare them for transformation into new products.",
+  "step4_title": "Remanufacturing",
+  "step4_text": "We convert recycled materials into new and useful products.",
+  
+  "cta_title": "Be Part of the Solution",
+  "cta_text": "Help us expand our impact and support more sustainable communities.",
+  "cta_button1": "Donate Now",
+  "cta_button2": "Volunteer With Us",
+  
+  "news_title": "Our Latest News",
+  "news1_title": "New Recycling Project in the City",
+  "news1_summary": "Launch of a comprehensive recycling program in five new residential areas.",
+  "news2_title": "Annual Beach Cleanup Day",
+  "news2_summary": "Join our annual event to clean beaches and protect marine life.",
+  "news_link": "Read More",
+  "all_news_link": "View All News",
+  
+   "about_title": "About Earth's Call",
+  "about_subtitle": "Since 1995, working for a more sustainable future for Earth",
+  
+  "story_title": "Our Story",
+  "story_para1": "Earth's Call initiative was founded in 1995 as an urgent response to the growing impacts of climate change and environmental pollution in our region. We started as a small group of passionate environmental activists.",
+  "story_para2": "Over the years, we have evolved into a leading organization in environmental awareness and recycling, with a special focus on empowering local communities and providing practical solutions.",
+  "story_para3": "Today, we are proud to have reached over 50 local communities and provided awareness programs to more than 10,000 people, contributing to the protection of our environment for future generations.",
+  
+  "mission_title": "Our Mission",
+  "mission_text": "To empower communities through education and resources to reduce waste, promote effective recycling, and protect biodiversity in our region.",
+  
+  "vision_title": "Our Vision",
+  "vision_text": "Sustainable communities living in harmony with nature, where recycling is a lifestyle and waste is a valuable resource rather than an environmental burden.",
+  
+  "values_title": "Our Core Values",
+  "value1_title": "Community Partnership",
+  "value1_text": "We believe that real change starts from the community itself, so we always work as partners with local communities.",
+  "value2_title": "Transparency & Accountability",
+  "value2_text": "We are committed to the highest standards of transparency in all our operations and use of donated resources.",
+  "value3_title": "Inclusivity",
+  "value3_text": "We strive to include all segments of society in our efforts, with special attention to empowering youth and women.",
+  "value4_title": "Continuous Innovation",
+  "value4_text": "We are always searching for innovative and sustainable solutions to the environmental challenges facing our communities.",
+  
+  "team_title": "Our Dedicated Team",
+  "team_description": "Our team combines experience and passion for environmental protection, with diverse backgrounds in environmental science, engineering, education, and community development.",
+  
+  "team1_role": "Executive Director",
+  "team1_bio": "Ph.D. in Environmental Sciences with over 15 years of experience leading environmental initiatives and policy advocacy.",
+  "team2_role": "Programs Coordinator",
+  "team2_bio": "Environmental engineer specializing in waste management, leading community recycling projects for 8 years.",
+  "team3_role": "Awareness Coordinator",
+  "team3_bio": "Specialist in environmental education, designing and implementing awareness programs for schools and local communities.",
+  "team4_role": "Volunteers Coordinator",
+  "team4_bio": "Manages a network of over 500 volunteers, organizing cleanup events and training workshops.",
+  
+  "partners_title": "Our Partners & Supporters",
+  "partners_description": "We work hand in hand with local and international institutions to achieve our shared environmental goals.",
+  "partner1_name": "City Municipality",
+  "partner2_name": "University of Environment",
+  "partner3_name": "Green Industries Group",
+  "partner4_name": "Future Schools",
+  
+  "achievements_title": "Our Achievements",
+  "achievement1": "Year Founded",
+  "achievement2": "Community Projects",
+  "achievement3": "Tons of Waste Diverted",
+  "achievement4": "People Educated",
+  
+  "contact_title": "Get in Touch",
+  "contact_text": "Want to join our efforts or have an idea for a joint project? We love hearing from the community.",
+  "contact_button": "Contact Our Team"
+}
